@@ -1,0 +1,59 @@
+[
+  {
+    "id": "0cjqmr4cdlok",
+    "nombre": "Remera",
+    "precio": 90,
+    "foto": "https://picsum.photos/200/300",
+    "descripcion": "Remera negra",
+    "stock": 10,
+    "codigo": "0cjqmr4cdlok",
+    "timestamp": 1670887519446
+  },
+  {
+    "id": "sje9ca97a9e",
+    "nombre": "Remera",
+    "precio": 90,
+    "foto": "https://picsum.photos/200/300",
+    "descripcion": "Remera negra",
+    "stock": 10,
+    "codigo": "sje9ca97a9e",
+    "timestamp": 1670889779776
+  },
+  {
+    "id": "1gq9hbpdiorb",
+    "precio": null,
+    "stock": null,
+    "codigo": "1gq9hbpdiorb",
+    "timestamp": "1.670.952.195.607"
+  },
+  {
+    "id": "0fh3ji8ljh4s",
+    "precio": null,
+    "stock": null,
+    "codigo": "0fh3ji8ljh4s",
+    "timestamp": "1.670.952.445.159"
+  },
+  {
+    "id": "6a7qi6m789gk",
+    "stock": null,
+    "codigo": "6a7qi6m789gk",
+    "timestamp": "1.670.952.470.103"
+  },
+  {
+    "id": "kfqcjblibmb",
+    "precio": null,
+    "stock": null,
+    "codigo": "kfqcjblibmb",
+    "timestamp": "1.670.952.522.639"
+  },
+  {
+    "id": "qmfitaqmbrc",
+    "nombre": "Pantalon",
+    "precio": 200,
+    "foto": "https://picsum.photos/200/300",
+    "descripcion": "Remera negra",
+    "stock": 4,
+    "codigo": "qmfitaqmbrc",
+    "timestamp": "1.670.952.600.498"
+  }
+]

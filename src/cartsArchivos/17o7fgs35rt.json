@@ -1,0 +1,27 @@
+{
+  "id": "17o7fgs35rt",
+  "timestampCart": "1.670.954.500.575",
+  "products": [
+    {
+      "id": "sje9ca97a9e",
+      "nombre": "Remera",
+      "precio": 90,
+      "foto": "https://picsum.photos/200/300",
+      "descripcion": "Remera negra",
+      "stock": 10,
+      "codigo": "sje9ca97a9e",
+      "timestamp": 1670889779776
+    },
+    null,
+    {
+      "id": "qmfitaqmbrc",
+      "nombre": "Pantalon",
+      "precio": 200,
+      "foto": "https://picsum.photos/200/300",
+      "descripcion": "Remera negra",
+      "stock": 4,
+      "codigo": "qmfitaqmbrc",
+      "timestamp": "1.670.952.600.498"
+    }
+  ]
+}

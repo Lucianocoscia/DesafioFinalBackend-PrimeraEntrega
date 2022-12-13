@@ -1,0 +1,16 @@
+{
+  "id": "5iwvoi9nk86",
+  "timestampCart": "1.670.954.914.695",
+  "products": [
+    {
+      "id": "0cjqmr4cdlok",
+      "nombre": "Remera",
+      "precio": 90,
+      "foto": "https://picsum.photos/200/300",
+      "descripcion": "Remera negra",
+      "stock": 10,
+      "codigo": "0cjqmr4cdlok",
+      "timestamp": 1670887519446
+    }
+  ]
+}

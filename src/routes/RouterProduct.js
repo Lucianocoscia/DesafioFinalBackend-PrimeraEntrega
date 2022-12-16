@@ -151,7 +151,10 @@ router
         codigo,
         timestamp,
       });
-
+      fs.writeFileSync(
+        "src/productsArchivos/products.json",
+        JSON.stringify(products, null, 2)
+      );
       res.status(200).json({
         status: "Updated",
         data: {
@@ -188,7 +191,10 @@ router
       }
 
       products.splice(indexProductToUpdate, 1);
-
+      fs.writeFileSync(
+        "src/productsArchivos/products.json",
+        JSON.stringify(products, null, 2)
+      );
       res.status(200).json({
         status: "Deleted",
         data: productToDelete,

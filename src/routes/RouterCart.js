@@ -139,7 +139,7 @@ router
         fs.readFileSync(`src/cartsArchivos/${id}.json`, "utf-8")
       );
       readCart.products = readCart.products.filter(
-        (product) => product.id === id_prod
+        (product) => product.id !== id_prod
       );
       fs.writeFileSync(
         `src/cartsArchivos/${id}.json`,
